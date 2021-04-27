@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 03 17:34:10 IST 2021
+commons-validator-1.6-sources.jar>central=
+commons-validator-1.6-javadoc.jar>central=
+commons-validator-1.6.jar>REN=
+commons-validator-1.6.pom>REN=

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>cn.guoyukun.jdbc</groupId>
+	<artifactId>oracle-ojdbc6</artifactId>
+	<version>11.2.0.3.0</version>
+	<description>Oracle 11gR2 JDBC Driver for JDK6</description>
+	<name>${project.groupId}:${project.artifactId}</name>
+	<url>http://www.oracle.com/technetwork/cn/database/features/jdbc/index-093096-zhs.html</url>
+	<licenses>
+		<license>
+			<name>Oracle Technology Network Development and Distribution License Terms</name>
+			<url>http://www.oracle.com/technetwork/licenses/distribution-license-152002.html</url>
+		</license>
+	</licenses>
+	<developers>
+		<developer>
+			<name>Oracle</name>
+			<email>oracle@oracle.com</email>
+			<organization>Oracle Corporation</organization>
+			<organizationUrl>http://www.oracle.com</organizationUrl>
+		</developer>
+	</developers>
+	<scm>
+		<connection>scm:git:git@bitbucket.org:gyk001/jdbc-drivers.git</connection>
+		<developerConnection>scm:git:git@bitbucket.org:gyk001/jdbc-drivers.git</developerConnection>
+		<url>git@bitbucket.org:gyk001/jdbc-drivers.git</url>
+	</scm>
+</project>

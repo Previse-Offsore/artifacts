@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 03 17:39:47 IST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1612354187314
+c80ce1e0cf89c2c10d56016c24bf16903541ad39@default-REN-https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/.lastUpdated=1612354185857
+https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/.error=Could not transfer artifact org.glassfish.jaxb\:jaxb-runtime\:jar\:javadoc\:2.3.3 from/to REN (https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/)\: Transfer failed for https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/org/glassfish/jaxb/jaxb-runtime/2.3.3/jaxb-runtime-2.3.3-javadoc.jar

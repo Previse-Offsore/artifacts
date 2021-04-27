@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 31 11:23:51 IST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1612072431272
+c80ce1e0cf89c2c10d56016c24bf16903541ad39@default-REN-https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/.lastUpdated=1612072430608
+https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/.error=Could not transfer artifact org.mortbay.jetty\:servlet-api-2.5\:pom\:6.1.12 from/to REN (https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/)\: Transfer failed for https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/org/mortbay/jetty/servlet-api-2.5/6.1.12/servlet-api-2.5-6.1.12.pom

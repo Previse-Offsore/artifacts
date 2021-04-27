@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 03 17:37:54 IST 2021
+asm-8.0.1.jar>REN=
+asm-8.0.1-sources.jar>central=
+asm-8.0.1-javadoc.jar>central=
+asm-8.0.1.pom>REN=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 03 17:36:35 IST 2021
+log4j-api-2.13.0.jar>REN=
+log4j-api-2.13.0-javadoc.jar>central=
+log4j-api-2.13.0-sources.jar>central=
+log4j-api-2.13.0.pom>REN=

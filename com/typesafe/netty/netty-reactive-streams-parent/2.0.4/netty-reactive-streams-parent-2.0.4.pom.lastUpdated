@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 02 18:41:00 IST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1614690660043
+c80ce1e0cf89c2c10d56016c24bf16903541ad39@default-REN-https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/.lastUpdated=1614690659483
+https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/.error=Could not transfer artifact com.typesafe.netty\:netty-reactive-streams-parent\:pom\:2.0.4 from/to REN (https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/)\: Transfer failed for https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/com/typesafe/netty/netty-reactive-streams-parent/2.0.4/netty-reactive-streams-parent-2.0.4.pom

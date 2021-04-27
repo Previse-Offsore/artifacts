@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 03 14:33:38 IST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1612343018148
+https\://repo.maven.apache.org/maven2/.error=
+c80ce1e0cf89c2c10d56016c24bf16903541ad39@default-REN-https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/.lastUpdated=1612343017981
+https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/.error=Could not transfer artifact com.atlassian.sal\:sal-api\:jar\:sources\:3.0.7 from/to REN (https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/)\: Transfer failed for https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/com/atlassian/sal/sal-api/3.0.7/sal-api-3.0.7-sources.jar

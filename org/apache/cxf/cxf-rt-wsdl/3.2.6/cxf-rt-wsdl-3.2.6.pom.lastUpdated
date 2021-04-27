@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 30 22:06:27 IST 2021
+https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/.error=Could not transfer artifact org.apache.cxf\:cxf-rt-wsdl\:pom\:3.2.6 from/to ren-central-nexus (https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/)\: Authentication failed for https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/org/apache/cxf/cxf-rt-wsdl/3.2.6/cxf-rt-wsdl-3.2.6.pom 401 Unauthorized
+https\://repo.maven.apache.org/maven2/.lastUpdated=1612024587305
+@default-ren-central-nexus-https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/.lastUpdated=1612024585461

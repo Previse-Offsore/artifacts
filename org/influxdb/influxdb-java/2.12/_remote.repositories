@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 03 17:32:35 IST 2021
+influxdb-java-2.12.pom>REN=
+influxdb-java-2.12.jar>REN=
+influxdb-java-2.12-sources.jar>central=
+influxdb-java-2.12-javadoc.jar>central=

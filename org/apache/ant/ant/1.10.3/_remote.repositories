@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 03 17:43:35 IST 2021
+ant-1.10.3-javadoc.jar>central=
+ant-1.10.3.jar>REN=
+ant-1.10.3-sources.jar>central=
+ant-1.10.3.pom>REN=

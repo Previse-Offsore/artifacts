@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 31 11:13:14 IST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1612071794208
+c80ce1e0cf89c2c10d56016c24bf16903541ad39@default-REN-https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/.lastUpdated=1612071791094
+https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/.error=Could not transfer artifact com.sun.mail\:smtp\:jar\:1.6.0 from/to REN (https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/)\: Transfer failed for https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/com/sun/mail/smtp/1.6.0/smtp-1.6.0.jar

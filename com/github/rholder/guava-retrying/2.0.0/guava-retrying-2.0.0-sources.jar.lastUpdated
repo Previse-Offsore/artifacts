@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 03 17:39:37 IST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1612354177209
+c80ce1e0cf89c2c10d56016c24bf16903541ad39@default-REN-https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/.lastUpdated=1612354176529
+https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/.error=Could not transfer artifact com.github.rholder\:guava-retrying\:jar\:sources\:2.0.0 from/to REN (https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/)\: Transfer failed for https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/com/github/rholder/guava-retrying/2.0.0/guava-retrying-2.0.0-sources.jar

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 03 17:34:28 IST 2021
+guava-29.0-jre-sources.jar>central=
+guava-29.0-jre-javadoc.jar>central=
+guava-29.0-jre.pom>REN=
+guava-29.0-jre.jar>REN=

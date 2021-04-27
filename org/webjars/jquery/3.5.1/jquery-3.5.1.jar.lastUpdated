@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 02 18:42:04 IST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1614690724741
+c80ce1e0cf89c2c10d56016c24bf16903541ad39@default-REN-https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/.lastUpdated=1614690672927
+https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/.error=Could not transfer artifact org.webjars\:jquery\:jar\:3.5.1 from/to REN (https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/)\: Transfer failed for https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/org/webjars/jquery/3.5.1/jquery-3.5.1.jar

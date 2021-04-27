@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 03 17:39:07 IST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1612354147359
+c80ce1e0cf89c2c10d56016c24bf16903541ad39@default-REN-https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/.lastUpdated=1612354146656
+https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/.error=Could not transfer artifact org.apache.cxf\:cxf-rt-ws-policy\:jar\:sources\:3.4.0 from/to REN (https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/)\: Transfer failed for https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/org/apache/cxf/cxf-rt-ws-policy/3.4.0/cxf-rt-ws-policy-3.4.0-sources.jar

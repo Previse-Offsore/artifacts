@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 03 17:40:56 IST 2021
+jakarta.inject-2.6.1-sources.jar>central=
+jakarta.inject-2.6.1-javadoc.jar>central=
+jakarta.inject-2.6.1.jar>REN=
+jakarta.inject-2.6.1.pom>REN=

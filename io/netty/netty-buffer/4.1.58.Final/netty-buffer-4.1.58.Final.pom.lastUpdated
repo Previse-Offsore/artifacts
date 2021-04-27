@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 02 18:40:34 IST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1614690634006
+c80ce1e0cf89c2c10d56016c24bf16903541ad39@default-REN-https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/.lastUpdated=1614690633437
+https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/.error=Could not transfer artifact io.netty\:netty-buffer\:pom\:4.1.58.Final from/to REN (https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/)\: Transfer failed for https\://aws0rennexus01.aws0.rnf.cloud/repository/REN/io/netty/netty-buffer/4.1.58.Final/netty-buffer-4.1.58.Final.pom
